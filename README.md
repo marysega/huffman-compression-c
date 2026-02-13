@@ -19,7 +19,6 @@ C • Linux • Makefile • Git
 ## Build & run
 ```bash
 make
-# example usage (adapt to your program options)
 ./bin/huffman
 
 
