@@ -16,10 +16,18 @@ C • Linux • Makefile • Git
 - `include/` : headers
 - `test_files/` : sample files for testing
 
+  ## Write-ups
+- [Huffman explained](writeups/huffman-explained.md)
+- [Frequency attack note](writeups/frequency-attack.md)
+
+
 ## Build & run
 ```bash
 make
 ./bin/huffman
+
+
+
 
 
 
