@@ -1,0 +1,8 @@
+# build outputs
+bin/
+*.o
+*.out
+
+# mac/windows
+.DS_Store
+Thumbs.db
